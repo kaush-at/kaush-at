@@ -4,7 +4,7 @@
 ## I'm a Fullstack software developer..
 - 🔭 I’m currently working on creating something cool..!
 - 🌱 I’m currently learning => 
-Boot, ReactJS, AngularJS, Javascript
+Spring Boot, ReactJS, AngularJS, Javascript
 - 👯 I’m looking to collaborate on ... More creative projects
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kaush-athukorala/)
 - 😄 Pronouns: ... He/Him
