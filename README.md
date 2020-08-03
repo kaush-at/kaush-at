@@ -2,7 +2,7 @@
 ### Hi there, I'm Kaush -  [LinkedIn](https://www.linkedin.com/in/kaush-athukorala/) 👋
 
 ## I'm a Fullstack software developer..
-- 🔭 I’m currently working on a [Project Management Application][https://github.com/kaush-at/project-management-app]!
+- 🔭 I’m currently working on a [Project Management Application with spring boot](https://github.com/kaush-at/project-management-app)!
 - 🌱 I’m currently learning => Spring Boot, ReactJS, AngularJS, Javascript
 - 👯 I’m looking to collaborate on ... More creative projects
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kaush-athukorala/)
