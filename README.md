@@ -3,7 +3,8 @@
 
 ## I'm a Fullstack software developer..
 - 🔭 I’m currently working on creating something cool..!
-- 🌱 I’m currently learning => Spring Boot, ReactJS, AngularJS, Javascript
+- 🌱 I’m currently learning => 
+Boot, ReactJS, AngularJS, Javascript
 - 👯 I’m looking to collaborate on ... More creative projects
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kaush-athukorala/)
 - 😄 Pronouns: ... He/Him
@@ -25,7 +26,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
 [<img align="left" alt="Java" width="26px"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>](https://www.oracle.com/java/)
-[<img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>][Springboot]
+[<img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>](https://spring.io/)
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
 [<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />](https://angular.io/)
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
