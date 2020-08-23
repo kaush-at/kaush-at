@@ -1,5 +1,5 @@
 
-### Hi there, I'm Kaush -  [LinkedIn](https://www.linkedin.com/in/kaush-athukorala/) 👋
+### Hi there, I'm Kaush Athukorala -  [LinkedIn](https://www.linkedin.com/in/kaush-athukorala/) 👋
 
 ## I'm a Fullstack software developer..
 - 🔭 I’m currently working on creating something cool..!
