@@ -13,7 +13,7 @@ Spring Boot, ReactJS, AngularJS, Javascript
 ### Connect with me:
 
 [<img align="left" alt="myweb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](#)
-[<img align="left" alt="Kaush-at | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCgvCHlJC-0ELp-2YFNFGnfg?sub_confirmation=1)
+[<img align="left" alt="Kaush-at | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](#)
 [<img align="left" alt="Kaush-at | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AthukoralaKaush)
 [<img align="left" alt="Kaush-at | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kaush-athukorala/)
 [<img align="left" alt="Kaush-at | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kaushikarukshan/)
